@@ -1,5 +1,16 @@
 # moviedb
 
+https://www.youtube.com/watch?v=CUYZIqHGx5o
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=CUYZIqHGx5o">
+     <img 
+      src="https://img.youtube.com/vi/CUYZIqHGx5o/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+
 How to Generate BLOC package
 Install flutter bloc plugin (Android Studio -> Preferences -> Plugins -> MarketPlace -> search & install flutter bloc (from felangel)
 (When creating new BLOC package simply follow these steps:
