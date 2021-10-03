@@ -11,6 +11,25 @@ https://www.youtube.com/watch?v=CUYZIqHGx5o
       </a>
     </div>
 
+# flutter doctor
+
+      [✓] Flutter (Channel stable, 2.5.0, on macOS 11.5.2 20G95 darwin-x64, locale en-RO)
+      [✓] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+      [✓] Xcode - develop for iOS and macOS
+      [✓] Chrome - develop for the web
+      [✓] Android Studio (version 2020.3)
+      [✓] IntelliJ IDEA Community Edition (version 2021.2.1)
+      [✓] VS Code (version 1.59.1)
+      [✓] Connected device (1 available)
+      
+# How to run
+      1. Download Flutter
+      2. Run the command $ flutter doctor
+      3. Go the the project main directory and run $ flutter run (make sure to have a device connected)
+
+
+# Notes
+
 How to Generate BLOC package
 Install flutter bloc plugin (Android Studio -> Preferences -> Plugins -> MarketPlace -> search & install flutter bloc (from felangel)
 (When creating new BLOC package simply follow these steps:
